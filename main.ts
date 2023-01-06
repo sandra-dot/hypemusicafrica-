@@ -3,3 +3,4 @@ basic.forever(function () {
 
     HypeMusicAfrica  has been innovative in marketing & promotion & is  pioneer of animated videos through social media and maintains a strong online presence for independent music. Many artists and producers across the world sign with Hype  to maintain their copyright ownership and to take part in innovative marketing campaigns to keep them at the forefront of the music industry!
 })
+music.playTone(Note.C, music.beat(BeatFraction.Whole))
